@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a118ada6-147f-475a-b63c-bda7b06e8185" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EyeDiseaseAgent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eye_diagnosis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medical_agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medical_agent_deepseek.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/squeezenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images/H0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images/N0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images/P0002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_overfit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
-    </list>
+    <list default="true" id="a118ada6-147f-475a-b63c-bda7b06e8185" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,26 +26,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.eye_diagnosis.executor": "Run",
-    "Python.medical_agent.executor": "Run",
-    "Python.medical_agent_deepseek.executor": "Run",
-    "Python.medical_agent_llm.executor": "Run",
-    "Python.medical_agent_ollama.executor": "Run",
-    "Python.squeezenet.executor": "Run",
-    "Python.test_overfit.executor": "Run",
-    "Python.train.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject1/test_images",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.eye_diagnosis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical_agent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical_agent_deepseek.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical_agent_llm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.medical_agent_ollama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squeezenet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_overfit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject1/test_images&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PythonProject1\test_images" />
