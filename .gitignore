@@ -1,0 +1,55 @@
+# ========== 敏感信息（绝对不能上传）==========
+config.py
+.env
+*.key
+*.pem
+secrets.py
+
+# ========== 模型文件（太大，不适合Git）==========
+*.pth
+*.pt
+*.bin
+*.onnx
+*.h5
+*.pb
+
+# ========== Python 相关 ==========
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+
+# ========== IDE 配置（个人设置）==========
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ========== 数据文件（图片、数据太大）==========
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+data/
+test_images/*.jpg
+test_images/*.png
+PALM-*/
+
+# ========== 日志和临时文件 ==========
+*.log
+*.tmp
+*.temp
+logs/
